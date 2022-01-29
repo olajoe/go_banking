@@ -1,3 +1,3 @@
 ## Banking Demo
 
-Try Golang And for learn Hexagonal Architecture
+Try Golang and for learn Hexagonal Architecture
